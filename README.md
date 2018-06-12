@@ -1,1 +1,1 @@
-# rect test app
+# react test app, redux
